@@ -20,8 +20,6 @@ You could read their RSS feed on a generic RSS reader found all over the interne
 
 So that is where our role comes in! Since the RSS also gives information about when a work was last updated, we can create a custom RSS parser to display the latest content and package it as a web extension to make it more accessible.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
