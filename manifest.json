@@ -1,0 +1,11 @@
+{
+    "name": "OPEN Community",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "assests/logo.png"
+    },
+    "host_permissions":["https://archiveofourown.org/"]
+  }
