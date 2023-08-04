@@ -11,8 +11,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="assests/screenshot.jpeg" width=40% height=40%></img>
+<div align="center">
+<img src="assests/Image 1.png" width=40% height=40%></img>                                                         <img src="assests/Image 2.png" width=40% height=40%></img>
+</div>
 
 This is a web extension made specifically for the website <a href="https://archiveofourown.org/" target = "_blank"> AO3 </a>, a non-profit website for tranformative works such as fanfiction, fanart, etc. 
 
