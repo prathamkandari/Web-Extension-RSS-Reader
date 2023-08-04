@@ -139,3 +139,11 @@ a.list-item-link.two{
     padding-left: 0px;
     padding-right: 0px;
 }
+.head{
+    padding-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 800;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(189, 22, 22);
+}
